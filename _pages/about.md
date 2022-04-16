@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Syed Sajid Hussain"
+title: "Dr. Syed Sajid Hussain"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
